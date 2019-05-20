@@ -1,0 +1,67 @@
+
+<IPLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LicenseID>11803</LicenseID>
+  <LicenseMetaDataID>60</LicenseMetaDataID>
+  <InvoiceNumber>LIC190511803</InvoiceNumber>
+  <Application>IP</Application>
+  <ApplicationFullName>Inaport - DynamicsCRM</ApplicationFullName>
+  <ProductName>Inaport</ProductName>
+  <Target>DynamicsCRM</Target>
+  <LicenseType>EVAL</LicenseType>
+  <LicStateTypeName>NEW</LicStateTypeName>
+  <KeyCode>Eval License</KeyCode>
+  <IssueDate>2019-05-20T12:42:00.6500000+00:00</IssueDate>
+  <ValidFrom>2019-05-20T12:42:00.6500000+00:00</ValidFrom>
+  <ValidTo>2019-06-19T12:42:00.6500000+00:00</ValidTo>
+  <SA_From>2019-05-20T12:42:00.6500000+00:00</SA_From>
+  <SA_To>2019-06-19T12:42:00.6500000+00:00</SA_To>
+  <Partner>Not Supplied</Partner>
+  <SentToEmail>capuanodanilo@gmail.com</SentToEmail>
+  <CustomerReference>Not Supplied</CustomerReference>
+  <EUCompany>MY COMPANY</EUCompany>
+  <EUName>Not Supplied</EUName>
+  <EUPhoneNumber>Not Supplied</EUPhoneNumber>
+  <EUAddress />
+  <EUCity />
+  <EUCountry>Italy</EUCountry>
+  <EUStateAndPostCode />
+  <EUEmail>capuanodanilo@gmail.com</EUEmail>
+  <EmailSubject>LIC190511803: Inaport - DynamicsCRM (EVAL), MY COMPANY</EmailSubject>
+  <Attrs>
+    <IPLicenseAttr>
+      <Name>SeatBand</Name>
+      <Desc>Seat Count</Desc>
+      <AttrType>int</AttrType>
+      <IntVal1>1</IntVal1>
+      <IntVal2>99999</IntVal2>
+    </IPLicenseAttr>
+    <IPLicenseAttr>
+      <Name>TimeBand</Name>
+      <Desc>Valid Period</Desc>
+      <AttrType>int</AttrType>
+      <IntVal1>1</IntVal1>
+      <IntVal2>30</IntVal2>
+    </IPLicenseAttr>
+    <IPLicenseAttr>
+      <Name>ProductEdition</Name>
+      <Desc>Product Edition</Desc>
+      <AttrType>string</AttrType>
+      <SVal1>Professional</SVal1>
+    </IPLicenseAttr>
+    <IPLicenseAttr>
+      <Name>MaintainBand</Name>
+      <Desc>Assurance Period</Desc>
+      <AttrType>int</AttrType>
+      <IntVal1>0</IntVal1>
+      <IntVal2>0</IntVal2>
+    </IPLicenseAttr>
+    <IPLicenseAttr>
+      <Name>RecordBand</Name>
+      <Desc>Record Band</Desc>
+      <AttrType>int</AttrType>
+      <IntVal1>1</IntVal1>
+      <IntVal2>10</IntVal2>
+    </IPLicenseAttr>
+  </Attrs>
+  <Hash>yAo747cepI7o9awQCAPB5PY21TOmUk8PEY0Fcd6ODYQyJ7CDihXEH+YM07tLNCmbo+bxOi7hqe870TGYPLRrq48QvDzXhhLhJymCNYaIcOwqsWK7n6zg34aHtzclf1ApdOIwDJnIBpbdqY+34tDty8ULXoF+rgYHK/OZl+zlzus=</Hash>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>vQApyO5D5OmWQrsa8Fnhca3PohQ=</DigestValue></Reference></SignedInfo><SignatureValue>QJYoDgSvoR2Z40BikBMad52xT4jZyszGk/p3rmH/ARa2dQUKmkiPky3kXWcC8ZbTFIvcCo7b97yaVlV1SlT+JfU1H+Jtnr/y1eioK1JkyxQHIuhKGGY3KpIiTBWJT9+1BCMQx9x+CXoyLidjEk0bXf0KXLl8Yk8cH3bMSGM7iyQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yAo747cepI7o9awQCAPB5PY21TOmUk8PEY0Fcd6ODYQyJ7CDihXEH+YM07tLNCmbo+bxOi7hqe870TGYPLRrq48QvDzXhhLhJymCNYaIcOwqsWK7n6zg34aHtzclf1ApdOIwDJnIBpbdqY+34tDty8ULXoF+rgYHK/OZl+zlzus=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo></Signature></IPLicense>
